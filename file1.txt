@@ -8,4 +8,5 @@ main
 hello golibjon
 
 hello Bekzod
+dnfkjs
 
