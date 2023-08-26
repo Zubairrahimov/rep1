@@ -4,4 +4,8 @@ file1
 file1
 main
 
+
 hello golibjon
+
+hello Bekzod
+
